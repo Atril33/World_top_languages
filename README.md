@@ -13,11 +13,10 @@ REQUIRED SECTIONS:
   - Live Demo
 - Getting Started
 - Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+- Future Features- 
+ - Mobile version design
+- Desktop version design
+- Dynamic HTML for featured-speakers
 
 OPTIONAL SECTIONS:
 - FAQ
@@ -105,7 +104,7 @@ _ **[javascript]**
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo" href="https://atril33.github.io/World_top_languages/index.html">My Portfolio</a>
+## 🚀 Live Demo <a name="live-demo" href="https://atril33.github.io/World_top_languages/index.html">Top Pragramming Languages</a>
 
 > Add a link to your deployed project.
 
@@ -208,7 +207,7 @@ Example:
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
-
+- JAVASCRIPT
 # <a name="authors">Syed Atril</a>
 👤 **Syed Atril**
 
@@ -247,7 +246,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> Thanks to <a href="https://www.behance.net/adagio07">Cindy Shin</a for providing us with such a beautiful design for the website.
 
 I would like to thank...
 
