@@ -18,7 +18,6 @@ function myMobileClose() {
 }
 myClose.addEventListener('click', myMobileClose);
 
-/// dynamic tab ///
 const myMain = document.getElementById('mymain');
 
 const mySpeakersData = [
@@ -76,8 +75,6 @@ speakerText.appendChild(headingText);
 const baseLine = document.createElement('div');
 baseLine.classList = 'hr';
 speakerText.appendChild(baseLine);
-
-/// feature speaker start //
 
 const mySpeakerTabs = document.createElement('div');
 mySpeakerTabs.classList = 'speaker_tabs';
