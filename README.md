@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [World Top Langauges] <a name="about-project"></a>
+# 📖 [World Top Languages] <a name="about-project"></a>
 
 > This is my Website about World Top Programming Langauage in the world 2023. I used _HTML, CSS & JAVASCRIPT_ to create this website.
 
