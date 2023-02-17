@@ -1,5 +1,5 @@
 const myMenu = document.querySelector('.bars');
-const myShow = document.querySelector('.bigbar_links');
+const myShow = document.querySelector('.bigbar_links1');
 const myClose = document.querySelector('.myclose');
 
 function myMobile() {
