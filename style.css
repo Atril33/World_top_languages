@@ -48,24 +48,29 @@ nav {
 
 .bigbar_links {
   display: none;
+}
+
+.bigbar_links1 {
+  display: none;
   position: absolute;
-  text-align: center;
-  width: 100%;
-  background: #f55e17;
   top: 0;
-  z-index: 19;
+  background: #f55e17;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  z-index: 10;
 }
 
 .myabout a {
   color: #fff;
 }
 
-.crossponding_tab {
+.crossponding_tab1 {
   margin: 30px 0;
   padding: 10px 10px;
 }
 
-.crossponding_tab a {
+.crossponding_tab1 a {
   color: #fff;
   font-size: 25px;
   font-weight: 500;
@@ -399,6 +404,7 @@ footer {
     background: #fff;
     color: #fff;
     align-items: center;
+    justify-content: space-between;
     box-shadow: 2px 13px 19px -13px rgba(0, 0, 0, 0.34);
     -webkit-box-shadow: 2px 13px 19px -13px rgba(0, 0, 0, 0.34);
     -moz-box-shadow: 2px 13px 19px -13px rgba(0, 0, 0, 0.34);
@@ -407,20 +413,21 @@ footer {
   .nav,
   .logo {
     display: block;
-    margin-left: 170px;
+    margin-left: 150px;
   }
 
   .bars {
     display: none;
   }
 
+  .bigbar_links1 {
+    display: none;
+  }
+
   .bigbar_links {
     display: block;
+    margin-right: 70px;
     position: relative;
-    background: transparent;
-    margin-right: -250px;
-    margin-top: 20px;
-    height: 60px;
   }
 
   .crossponding_tab {
@@ -519,5 +526,11 @@ footer {
 
   .license_text {
     width: 40%;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  .homewhite {
+    display: none;
   }
 }
