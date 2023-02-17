@@ -1,0 +1,201 @@
+
+.heading_center {
+  width: 100%;
+  height: auto;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading_center h3 {
+  font-size: 40px;
+  font-style: bold;
+  font-weight: 900;
+  color: #ec5242;
+  text-align: center;
+}
+
+.border_center {
+  width: 80%;
+  background: #fffb;
+  padding: 10px 10px;
+  border: 3px solid #f7f7f7;
+  margin: 20px 0;
+  align-self: center;
+  color: #272a31;
+}
+
+.border_center p {
+  text-align: center;
+  color: #272a31;
+}
+
+h4,
+h5 {
+  margin: 5px;
+  text-align: center;
+  color: #272a31;
+}
+
+h5 {
+  text-decoration: underline;
+  font-size: 14px;
+}
+
+.trademark_logo {
+  width: 100%;
+  height: 400px;
+  background: #fff;
+  display: flex;
+  margin-top: -30px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-bottom: 3px solid #f7f7f7;
+}
+
+.about_text,
+.about_des {
+  margin: 10px 0;
+  color: #272a31;
+}
+
+.about_text {
+  font-size: 20px;
+  margin-top: 25px;
+  font-weight: 700;
+}
+
+.about_des {
+  width: 70%;
+  text-align: center;
+}
+
+.about_logo {
+  padding: 30px 70px;
+  border: 2px solid #f7f1f1;
+  margin-top: 30px;
+}
+
+.aboutlogo {
+  color: #f55e17;
+  font-family: 'Julee', sans-serif;
+  font-size: 20px;
+  margin: 0 20px;
+  border: 3px solid #1f71ec;
+  border-right: 0;
+  border-bottom: 0;
+  border-radius: 50%;
+  padding: 10px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.past_languages {
+  width: 100%;
+  height: 650px;
+  background: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.past_text {
+  font-size: 25px;
+  color: #272a31;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.past_hr {
+  width: 25px;
+  height: 1px;
+  background: #ec5242;
+  align-self: center;
+  margin: 8px 0;
+}
+
+.past_des {
+  font-size: 16px;
+  margin: 15px 0;
+  font-weight: 400;
+  color: #57585a;
+}
+
+.pastyear_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.past_year {
+  background: #ec5242;
+  width: 90%;
+  height: 200px;
+  background-image: url('Images/pyton_img.jpg');
+  background-blend-mode: screen;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.year {
+  font-size: 50px;
+  color: #fff;
+  font-weight: 900;
+}
+
+.year_des {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 500;
+}
+
+@media screen and (min-width: 768px) {
+  .myabout a {
+    color: #ec5242;
+  }
+
+  .border_center {
+    width: 60%;
+  }
+
+  h4 {
+    font-size: 16px;
+    color: #fff;
+  }
+
+  .about_text {
+    font-size: 25px;
+  }
+
+  .aboutlogo {
+    display: block;
+    font-size: 25px;
+  }
+
+  .past_text {
+    font-size: 30px;
+    font-weight: 700;
+  }
+
+  .pastyear_container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .past_year {
+    width: 40%;
+    margin: 0 10px;
+  }
+
+  .past_languages {
+    height: 400px;
+  }
+}
