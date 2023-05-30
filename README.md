@@ -118,7 +118,7 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-The Original design idea is by **Cindy Shin** in Behance Thanks ❤️ to **Cindy Shin** for Creating such a beautiful design.
+The Original design idea is by [Cindy Shin in Behance](https://www.behance.net/adagio07) Thanks to **Cindy Shin** for Creating such a beautiful design.
 
 I would like to say thanks to everyone who contribute to this project...
 
