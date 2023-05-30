@@ -118,9 +118,9 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-The Original design idea is by [Cindy Shin in Behance](https://www.behance.net/adagio07) Thanks to **Cindy Shin** for Creating such a beautiful design.
+The Original design idea is by [Cindy Shin in Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) Thanks to **Cindy Shin** for Creating such a beautiful design.
 
-I would like to say thanks to everyone who contribute to this project...
+I also would like to say thanks to everyone who contribute to this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
